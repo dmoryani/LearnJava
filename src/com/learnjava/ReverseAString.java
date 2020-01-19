@@ -12,7 +12,7 @@ public class ReverseAString {
 		
 		String s = "Reverseme";
 		String rev = "";
-		// 1. using StringBuilder
+		// 1. using StringBuilder and reverse function
 		/*StringBuilder sb = new StringBuilder(s);
 		
 		System.out.println(sb.reverse());*/
